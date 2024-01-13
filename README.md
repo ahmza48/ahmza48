@@ -1,10 +1,10 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Ameer Hamza</h1>
-<h3 align="center">A Passionate Final Year Software Engineering Student.</h3>
+<h3 align="center">Final Year Software Engineering Student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmza48&label=Profile%20views&color=0e75b6&style=flat" alt="ahmza48" /> </p>
 
-- 🔭 Currently working on **GamesHub, a game changer for gamers in finding best deals on games.**
+- 🔭 Currently working on **Gamer's Utopia, a game changer for gamers to connect with each other and find best deals on games.**
 
 - 🌱 Recently started learning **web scrapping and automation to automate the daily routine tasks.**
 
